@@ -1,0 +1,40 @@
+.contents{
+    position: absolute;
+    font-family:'Roboto', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    top:90px;
+    left:120px;
+    margin:50px 100px 50px 90px;
+    width: calc(100% - 310px);
+    
+}  
+
+.hello{
+    font-size:48px;
+    font-weight: 500;
+    line-height: 24px;
+    margin-bottom:40px;
+}
+
+.name{
+    color:rgba(255, 1, 1, 1);
+}
+
+.congratulation{
+    font-size: 18px;
+}
+.info{
+    display: flex;
+
+}
+
+.nut{
+    width: 25%;
+   
+    padding:0 30px;
+}
+.tab{
+    width: 75%;
+    background-color: blue;
+}
