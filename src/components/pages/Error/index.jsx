@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Error() {
   return (
-    <div>index</div>
+    <div>Page en cours de construction</div>
   )
 }
